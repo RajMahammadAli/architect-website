@@ -286,6 +286,7 @@ header {
   }
   .feature-content {
     width: 100%;
+    margin-bottom: 20px;
   }
 
   .feature-img {
